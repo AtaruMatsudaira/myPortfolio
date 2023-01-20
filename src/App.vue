@@ -40,6 +40,6 @@
 
 <script lang="ts">
 export default {
-  data: () => ({ drawer: null }),
+  data: () => ({ drawer: false}),
 }
 </script>
